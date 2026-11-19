@@ -1,0 +1,77 @@
+[
+  {
+    "subscriber": "Alice Johnson",
+    "premium": false,
+    "paid_total": 125.5
+  },
+  {
+    "subscriber": "Michael Smith",
+    "premium": false,
+    "paid_total": 25.0
+  },
+  {
+    "subscriber": "Sophia Williams",
+    "premium": true,
+    "paid_total": 999.99
+  },
+  {
+    "subscriber": "James Brown",
+    "premium": false,
+    "paid_total": 10.0
+  },
+  {
+    "subscriber": "Emma Davis",
+    "premium": false,
+    "paid_total": 250.0
+  },
+  {
+    "subscriber": "Oliver Wilson",
+    "premium": false,
+    "paid_total": 75.25
+  },
+  {
+    "subscriber": "Isabella Martinez",
+    "premium": false,
+    "paid_total": 500.0
+  },
+  {
+    "subscriber": "Ethan Anderson",
+    "premium": false,
+    "paid_total": 42.5
+  },
+  {
+    "subscriber": "Mia Thomas",
+    "premium": false,
+    "paid_total": 750.75
+  },
+  {
+    "subscriber": "Lucas Taylor",
+    "premium": false,
+    "paid_total": 15.99
+  },
+  {
+    "subscriber": "Charlotte Moore",
+    "premium": false,
+    "paid_total": 320.0
+  },
+  {
+    "subscriber": "Benjamin Jackson",
+    "premium": true,
+    "paid_total": 89.99
+  },
+  {
+    "subscriber": "Amelia White",
+    "premium": true,
+    "paid_total": 1000.0
+  },
+  {
+    "subscriber": "Henry Harris",
+    "premium": false,
+    "paid_total": 60.0
+  },
+  {
+    "subscriber": "Grace Clark",
+    "premium": true,
+    "paid_total": 185.5
+  }
+]
